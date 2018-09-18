@@ -12,6 +12,8 @@ public class Person implements Weighable {
     static int legs = 2;
     double weight;
 
+    // Wasn't sure if you needed absolutely every combination of constructor methods for the purpose of this assignment.
+
     /**
      * Full Person class constructor with all four arguments to fill the non-static fields.
      * @param fn String of Person's first name
